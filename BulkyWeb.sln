@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bulky.Models", "Bulky.Model
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bulky.Utility", "Bulky.Utility\Bulky.Utility.csproj", "{69C93CD2-28FB-45DE-8249-D30CB45345A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{C8C47732-6C34-4D61-B16F-0A04AB118238}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{69C93CD2-28FB-45DE-8249-D30CB45345A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69C93CD2-28FB-45DE-8249-D30CB45345A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69C93CD2-28FB-45DE-8249-D30CB45345A4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C8C47732-6C34-4D61-B16F-0A04AB118238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8C47732-6C34-4D61-B16F-0A04AB118238}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8C47732-6C34-4D61-B16F-0A04AB118238}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8C47732-6C34-4D61-B16F-0A04AB118238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
